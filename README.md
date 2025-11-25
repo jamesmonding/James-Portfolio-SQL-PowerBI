@@ -1,5 +1,4 @@
-# James-Portfolio-SQL-PowerBI
-# Real Estate SQL Database Project
+# Real Estate SQL Database & Power BI Project
 
 This project showcases my SQL skills, database design knowledge, and real estate analytics background.
 
